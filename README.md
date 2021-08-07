@@ -18,4 +18,7 @@ I am Aditya Kumar. I am currently a student. Contact me at:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
+## Visitors
+<p align="center">
 ![Visitor Count](https://profile-counter.glitch.me/ak-51/count.svg)
+</p>
