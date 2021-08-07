@@ -19,6 +19,5 @@ I am Aditya Kumar. I am currently a student. Contact me at:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ## Visitors
-<p align="center">
+
 ![Visitor Count](https://profile-counter.glitch.me/ak-51/count.svg)
-</p>
