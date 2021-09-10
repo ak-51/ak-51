@@ -1,9 +1,6 @@
 ## Hey <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Aditya Kumar. I am currently a student. Contact me at:
-
-[![Gmail Badge](https://img.shields.io/badge/-aditya.kumar.752cz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aditya.kumar.752cz@gmail.com)](mailto:aditya.kumar.752cz@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-aditya_kumar51-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aditya_kumar51/)](https://www.instagram.com/aditya_kumar51/)
+I am Aditya Kumar. I am currently a student
 
 ## Technologies
 
