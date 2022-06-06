@@ -1,4 +1,4 @@
-## Hey <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hey <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="5px">
 
 ## Technologies
 
@@ -12,7 +12,3 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
-## Visitors
-
-![Visitor Count](https://profile-counter.glitch.me/ak-51/count.svg)
