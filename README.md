@@ -1,7 +1,3 @@
-## Hey <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-
-## Technologies
-
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
